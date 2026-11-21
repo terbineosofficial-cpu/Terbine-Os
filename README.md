@@ -1,3 +1,22 @@
+Project Information
+
+Project: Terbine OS
+Version: 0.0.1
+Maintainer: terbineosofficial-cpu
+Repository: https://github.com/terbineosofficial-cpu/Terbine-OS
+License: GNU General Public License v3.0 (GPL-3.0-only)
+
+Copyright
+
+Copyright (C) 2026 Terbine OS contributors.
+
+Terbine OS is an open-source operating system project distributed under the GNU General Public License version 3.
+
+You may use, study, modify, and redistribute this software under the terms of GPLv3.
+
+You must preserve applicable copyright and license notices when redistributing the software.
+
+See the "LICENSE" (LICENSE) file for the full license text.
 # Terbine OS UEFI v0.0.1
 
 Educational x86_64 UEFI bootloader written from scratch in C, with a freestanding C++ kernel. **No GRUB**. The `nosktlnfc.exe` file is a custom `TBK1` image (not a Windows PE executable).
