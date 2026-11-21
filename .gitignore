@@ -1,0 +1,14 @@
+# Compiled files
+build/
+*.o
+*.obj
+*.bin
+
+# Generated UEFI files
+esp/EFI/BOOT/BOOTX64.EFI
+esp/nosktlnfc.exe
+
+# Editor and temporary files
+.vscode/
+*.swp
+*~
